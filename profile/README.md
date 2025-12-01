@@ -16,11 +16,13 @@
 
 ---
 
-</div>
+<div align="center">
 
 ## 🌐 Mission
 
 DDID Global establishes the **global standard for digital trust** by certifying businesses, applications, and smart contracts through blockchain-based, verifiable credentials. We are a nonprofit foundation building decentralized trust infrastructure for global commerce.
+
+<div>
 
 ## 📊 The Problem
 
