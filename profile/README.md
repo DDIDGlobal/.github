@@ -24,8 +24,6 @@ DDID Global establishes the **global standard for digital trust** by certifying 
 
 ---
 
-<div>
-
 ## 📊 The Problem
 
 The global digital economy faces a trust crisis:
