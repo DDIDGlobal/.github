@@ -16,7 +16,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 ## 🌐 Mission
 
