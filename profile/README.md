@@ -1,119 +1,90 @@
 <div align="center">
 
-# DDID Global
+# DDID Global Foundation
 
 ### The Global Standard for Digital Trust
 
-[![Nonprofit Foundation](https://img.shields.io/badge/Status-Nonprofit%20Foundation-platinum?style=for-the-badge)](https://ddidglobal.org)
-[![BRC-100](https://img.shields.io/badge/Standard-BRC--100-silver?style=for-the-badge)](https://brc.dev/100)
-[![License](https://img.shields.io/badge/License-Open%20Standard-blue?style=for-the-badge)](#)
-
-**Decentralized Digital Identity Trust Infrastructure**
+**Nonprofit Certification Authority | BSV Blockchain | Open Standards**
 
 *Certifying businesses, applications, and smart contracts through blockchain-based, verifiable credentials.*
 
-[Website](https://ddidglobal.org) • [BRC-100 Standard](https://brc.dev/100) • [Contact](mailto:info@ddidglobal.org)
+[Website](https://ddidglobal.org) | [BRC-100 Standard](https://github.com/bitcoin-sv/BRCs/blob/master/wallet/0100.md) | [Contact](mailto:info@ddidglobal.org)
 
 ---
 
 </div>
 
-## 🌐 Mission
+## Mission
 
-DDID Global establishes the **global standard for digital trust** by certifying businesses, applications, and smart contracts through blockchain-based, verifiable credentials. We are a nonprofit foundation building decentralized trust infrastructure for global commerce.
+DDID Global Foundation is a nonprofit certification authority establishing blockchain-anchored verification of businesses, individuals, applications, and smart contracts. Built on BSV blockchain using vendor-neutral digital identity standards, we're building the trust layer the internet never had.
 
-## 📊 The Problem
+> *The internet developed protocols for communication but never developed a native protocol for trust.*
 
-The global digital economy faces a trust crisis:
+---
 
-| Challenge | Impact |
-|-----------|--------|
-| **$485B+** | Lost annually to business fraud globally |
-| **72%** | Of enterprises report counterparty verification challenges |
-| **89%** | Of cross-border transactions require manual due diligence |
-| **3.2M+** | Fraudulent business registrations detected annually |
+## The Problem
 
-**Current solutions are failing:**
-- Centralized verification creates single points of failure
-- Legacy KYB processes take weeks, not minutes
-- Siloed data prevents credential portability
-- Regional solutions don't scale globally
+**$685 billion lost annually** to digital commerce trust failures—$485B in fraud, $200B in verification costs.
 
-## 🏛️ Three Pillars of Certification
+Centralized identity creates single points of failure. Legacy verification takes weeks at $100+ per check. Platform-based reputation locks users into proprietary ecosystems with 18-33% fees. Cross-border verification remains fragmented and manual.
 
-### 1. Business & Individual Identity
-Verify the legitimacy of entities and their representatives through comprehensive due diligence.
-- Business registration verification
-- Beneficial ownership mapping
-- Director & officer validation
-- Ongoing compliance monitoring
+---
 
-### 2. Applications & Software
-Certify digital products meet security, privacy, and quality standards.
-- Security audit verification
-- Privacy compliance certification
-- Code quality assessment
-- Ongoing vulnerability monitoring
+## The Solution
 
-### 3. Smart Contracts
-Validate the safety and reliability of on-chain code before deployment.
-- Formal verification status
-- Audit firm attestations
-- Known vulnerability checks
-- Upgrade pattern analysis
+DDID Global verifies **WHO**, **WHAT**, and **HOW**—enabling peer-to-peer commerce without intermediaries.
 
-## 🔑 Core Principles
+| Layer | Function |
+|:------|:---------|
+| **Entity & Individual Identity** | Legal, operational, and compliance verification |
+| **Application Certification** | Security audits, privacy compliance, continuous monitoring |
+| **Smart Contract Verification** | Formal audits, zero-knowledge proofs, vulnerability checks |
 
-| Principle | Description |
-|-----------|-------------|
-| **Decentralized by Design** | No single point of failure or control. Trust is distributed across the network. |
-| **Global from Day One** | Standards work across all jurisdictions. Universal interoperability is built in. |
-| **Privacy-Preserving** | Zero-knowledge proofs enable verification without exposing sensitive data. |
-| **Portable Reputation** | Credentials follow you across platforms and borders. Build once, verify everywhere. |
+Certified entities transact through secure applications executing audited smart contracts—reducing costs 99% and compressing settlement from days to minutes.
 
-## 🏅 Certification Tiers
+---
 
-<div align="center">
+## Key Benefits
 
-| Bronze | Silver | Gold | Platinum |
-|:------:|:------:|:----:|:--------:|
-| Basic verification | Enhanced due diligence | Comprehensive audit | Maximum assurance |
-| Entry-level trust | Professional grade | Enterprise standard | Institutional grade |
+- **Instant verification** — Seconds, not weeks
+- **70% KYC cost reduction** for institutions
+- **Sub-0.1% transaction costs** vs. 3-10% traditional fees
+- **Portable reputation** — Build once, verify everywhere
+- **Privacy-preserving** — Zero-knowledge proofs enable verification without exposing data
 
-</div>
+---
 
-## 🤝 Why Nonprofit?
+## The Model
 
-DDID Global operates as a **nonprofit foundation** to ensure:
+Businesses donate annually ($2.5K–$100K based on size). Individuals certify free. This cross-subsidy creates network effects where ecosystem value compounds with each participant—no extractive rent-seeking.
 
-- **Mission Over Profit** — Decisions serve the ecosystem, not shareholders
-- **Open Standards** — All protocols are open-source and community-governed
-- **Transparent Governance** — Public financial reports and community oversight
-- **Neutral Infrastructure** — No competitive conflicts with certified entities
+All certificates deliver as blockchain-anchored credentials with instant global verification, cryptographic signing capability, and evolving on-chain reputation.
 
-> 100% of certification revenue funds infrastructure development, security research, and global accessibility initiatives.
+---
 
-## 📚 Resources
+## Why Nonprofit
 
-- **[BRC-100 Standard](https://brc.dev/100)** — The technical specification powering DDID credentials
-- **[Website](https://ddidglobal.org)** — Learn more about our mission and solutions
-- **[Partner With Us](mailto:info@ddidglobal.org)** — Become a certification partner or validator
+- Decisions serve the ecosystem, not shareholders
+- All protocols are open-source and community-governed
+- No competitive conflicts with certified entities
+- 100% of revenue funds infrastructure and accessibility
 
-## 🚀 Get Involved
+---
 
-**For Businesses:** Apply for certification to build verified trust with partners and customers.
+## Get Involved
 
-**For Developers:** Integrate DDID verification into your applications using our open standards.
+**Businesses** — Apply for certification to build verified trust with partners and customers
 
-**For Validators:** Join our network of trusted verification partners.
+**Developers** — Integrate DDID verification using our open standards
+
+**Validators** — Join our network of trusted verification partners
 
 ---
 
 <div align="center">
 
-**DDID Global** — *Building the trust layer for the global digital economy*
+**Building the trust layer for the global digital economy**
 
-[![Website](https://img.shields.io/badge/Website-ddidglobal.org-blue?style=flat-square)](https://ddidglobal.org)
-[![Email](https://img.shields.io/badge/Email-info%40ddidglobal.org-blue?style=flat-square)](mailto:info@ddidglobal.org)
+[ddidglobal.org](https://ddidglobal.org) | [info@ddidglobal.org](mailto:info@ddidglobal.org)
 
 </div>
